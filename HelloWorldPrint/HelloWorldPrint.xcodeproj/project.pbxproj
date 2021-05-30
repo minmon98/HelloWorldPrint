@@ -58,7 +58,7 @@
 		2582D85526635AF400C7F24D /* HelloWorldPrint */ = {
 			isa = PBXGroup;
 			children = (
-				2582D86A26635B0200C7F24D /* Extensions */,
+				2582D86A26635B0200C7F24D /* Classes */,
 				2582D85626635AF400C7F24D /* AppDelegate.swift */,
 				2582D85826635AF400C7F24D /* SceneDelegate.swift */,
 				2582D85A26635AF400C7F24D /* ViewController.swift */,
@@ -70,12 +70,12 @@
 			path = HelloWorldPrint;
 			sourceTree = "<group>";
 		};
-		2582D86A26635B0200C7F24D /* Extensions */ = {
+		2582D86A26635B0200C7F24D /* Classes */ = {
 			isa = PBXGroup;
 			children = (
 				2582D86B26635B1500C7F24D /* UIViewControllerExtensions.swift */,
 			);
-			path = Extensions;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
